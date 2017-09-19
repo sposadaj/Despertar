@@ -28,4 +28,4 @@ while (Voluntaria != "Fue voluntaria.") & (Voluntaria != "No fue voluntaria."):
     else:
         print("Lo siento, mis patrones de reconociento de respuestas no son lo que fueron. Necesito que me respondas con 'Fue voluntaria.' o con 'No fue voluntaria.' No olvides la ortografía. :3")
         Voluntaria = input("¿Puedes recordar si fue una hibernación voluntaria?\n")
-print
+print("Hola.")
